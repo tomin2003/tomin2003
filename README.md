@@ -20,10 +20,10 @@ I'm in my second year from this September, and I'm really looking forward to lea
 - 🎯 楽しくて面白いプロジェクトを作りたいです
 
 ### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tomin2003&show_icons=true&theme=radical)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomin2003&layout=compact&theme=radical)
 
 <!--
 **tomin2003/tomin2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
