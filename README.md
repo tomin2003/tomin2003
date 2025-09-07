@@ -1,5 +1,30 @@
 ## Hi there 👋
 
+I'm a **Computer Engineering** bachelor major at **Budapest University of Technology and Science (BME)**.  
+I'm in my second year from this September, and I'm really looking forward to learning new stuff.
+
+### About me
+- 💻 I know C and C++ at a comfortable level
+- 🌱 I'm currently learning Java and Flutter
+- 🫵🏻 Feel free to contribute to my repos
+- 🎯 Looking forward to building fun and cool projects
+
+### どうも👋
+私は**ブダペスト工科大学**で**コンピューター工学**を専攻している学士課程の学生です。  
+今年の9月から2年生になり、これから色々な面白いことを学ぶのを楽しみにしています。
+
+#### 私について
+- 💻 **C** と **C++** を快適に使えます
+- 🌱 現在 **Java** と **Flutter** を学習中です
+- 🫵🏻 リポジトリへの貢献は大歓迎です
+- 🎯 楽しくて面白いプロジェクトを作りたいです
+
+### GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
 <!--
 **tomin2003/tomin2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
