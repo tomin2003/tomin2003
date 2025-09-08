@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **Computer Engineering** bachelor major at **Budapest University of Technology and Science (BME)**.  
+I'm a **Computer Engineering** bachelor major at **Budapest University of Technology and Economics (BME)**.  
 I'm in my second year from this September, and I'm really looking forward to learning new stuff.
 
 ### About me
