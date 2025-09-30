@@ -19,7 +19,7 @@ I'm in my second year from this September, and I'm really looking forward to lea
 - 🫵🏻 リポジトリへの貢献は大歓迎です
 - 🎯 楽しくて面白いプロジェクトを作りたいです
 
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomin2003&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomin2003&layout=compact&theme=radical)
 <!--
 **tomin2003/tomin2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
