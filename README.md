@@ -10,7 +10,7 @@ I'm in my second year from this September, and I'm really looking forward to lea
 - 🎯 Looking forward to building fun and cool projects
 
 ### どうも 👋
-私は**ブダペスト工科大学**で**コンピューター工学**を専攻している学士課程の学生です。  
+私は**ブダペスト工科経済大学**で**コンピューター工学**を専攻している学士課程の学生です。  
 今年の9月から2年生になり、これから色々な面白いことを学ぶのを楽しみにしています。
 
 #### 私について
