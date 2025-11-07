@@ -18,10 +18,12 @@ I'm in my second year from this September, and I'm really looking forward to lea
 - 🌱 現在 **Java** と **Flutter** を学習中です
 - 🫵🏻 リポジトリへの貢献は大歓迎です
 - 🎯 楽しくて面白いプロジェクトを作りたいです
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 <!--
 **tomin2003/tomin2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
